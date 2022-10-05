@@ -12,5 +12,6 @@ public class test {
         System.out.println("拉取github！");
         System.out.println("克隆后push！");
         System.out.println("克隆后push2！");
+        System.out.println("克隆后push3！");
     }
 }
