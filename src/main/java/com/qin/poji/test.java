@@ -15,5 +15,6 @@ public class test {
         System.out.println("克隆后push3！");
         System.out.println("克隆后push4！");
         System.out.println("克隆后push5！");
+        System.out.println("撤销后的测试！");
     }
 }
