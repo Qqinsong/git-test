@@ -14,5 +14,6 @@ public class test {
         System.out.println("克隆后push2！");
         System.out.println("克隆后push3！");
         System.out.println("克隆后push4！");
+        System.out.println("克隆后push5！");
     }
 }
