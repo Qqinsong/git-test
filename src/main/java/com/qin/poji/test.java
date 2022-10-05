@@ -10,5 +10,6 @@ public class test {
         System.out.println("hot-fix测试冲突");
         System.out.println("分享到github！");
         System.out.println("拉取github！");
+        System.out.println("克隆后push！");
     }
 }
